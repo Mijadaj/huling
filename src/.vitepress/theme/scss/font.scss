@@ -50,3 +50,15 @@
   font-display: swap;
   src: url('/fonts/MonomakhUnicode.woff2') format('woff2');
 }
+
+@font-face {
+  font-family: 'Shafarik';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('../fonts/Shafarik-Regular.eot');
+  src: url('../fonts/Shafarik-Regular.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/Shafarik-Regular.woff2') format('woff2'),
+       url('../fonts/Shafarik-Regular.woff') format('woff'),
+       url('../fonts/Shafarik-Regular.ttf') format('truetype');
+}
