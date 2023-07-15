@@ -9,16 +9,16 @@ hero:
   actions:
     - theme: brand
       text: About us
-      link: /about/
+      link: /about
     - theme: alt
       text: Booklet
-      link: /booklet/
+      link: /booklet
 
 features:
   - title: 活動内容 
-    details: 楡陵祭出店、テキストの輪読会、JOL (日本言語学オリンピック) の過去問演習など
+    details: 楡陵祭出店、言語談議、テキストの輪読会、JOL (日本言語学オリンピック) の過去問演習、語会(アイヌ語等)など
   - title: 活動場所
-    details: 不定 (現在は主に札幌市北区民センターを使用)
+    details: 主に教養棟1Fディスカッション・ラウンジを使用。以前はYouth+アカシアを利用していた。特別な用事がある場合はいまもたまに使う
   - title: 活動頻度
-    details: 週1回 (曜日不定)
+    details: 週1回 (毎週金曜18:00過ぎから21:00ごろまで)
 ---
