@@ -1,5 +1,5 @@
 ---
-title: 古典ギリシア語ギリシア文字変換器
+title: 古典ギリシア語ギリシア文字
 id: conv-grc
 category: conv
 tags:
@@ -7,6 +7,7 @@ tags:
   - 古典ギリシア語
   - ヘレニック語派
   - ギリシア文字
+  - インド・ヨーロッパ語族
 author:
   - name: 宮西 大
 comment: 'true'

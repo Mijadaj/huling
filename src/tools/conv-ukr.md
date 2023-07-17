@@ -1,11 +1,13 @@
 ---
-title: ウクライナ語キリル文字変換器
+title: ウクライナ語キリル文字
 id: conv-ukr
 category: conv
 tags:
   - 文字変換器
   - ウクライナ語
   - キリル文字
+  - スラヴ語派
+  - インド・ヨーロッパ語族
 author:
   - name: 宮西 大
 comment: "true"

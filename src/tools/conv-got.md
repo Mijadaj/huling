@@ -1,5 +1,5 @@
 ---
-title: ゴート文字変換器
+title: ゴート文字
 id: conv-got
 category: conv
 tags:
@@ -7,6 +7,7 @@ tags:
   - ゴート語
   - ゴート文字
   - ゲルマン語派
+  - インド・ヨーロッパ語族
 author:
   - name: 宮西 大
 comment: "true"

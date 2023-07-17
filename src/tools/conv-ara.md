@@ -1,11 +1,13 @@
 ---
-title: アラビア語アラビア文字変換器
+title: アラビア語アラビア文字
 id: conv-ara
 category: conv
 tags:
   - 文字変換器
   - アラビア語
   - アラビア文字
+  - セム語派
+  - アフロ・アジア語族
 comment: "true"
 ---
 長母音は大文字 `A U I`,

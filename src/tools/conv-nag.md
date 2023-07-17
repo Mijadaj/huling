@@ -1,11 +1,13 @@
 ---
-title: サンスクリット・デーヴァナーガリー変換器
+title: サンスクリット・デーヴァナーガリー
 id: conv-nag
 category: conv
 tags:
   - 文字変換器
   - サンスクリット
   - デーヴァナーガリー
+  - インド・イラン語派
+  - インド・ヨーロッパ語族
 author:
   - name: 宮西 大
 comment: "true"

@@ -1,6 +1,6 @@
 ---
-title: セルビア語クロアチア語・キリル文字ラテン文字変換器
-id: conv-srp
+title: セルビア語クロアチア語・キリル文字ラテン文字
+id: conv-SrpHrv
 category: conv
 tags:
   - 文字変換器
@@ -8,6 +8,8 @@ tags:
   - クロアチア語
   - キリル文字
   - ラテン文字
+  - スラヴ語派
+  - インド・ヨーロッパ語族
 author:
   - name: 宮西 大
 comment: "true"

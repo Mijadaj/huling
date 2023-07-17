@@ -1,11 +1,13 @@
 ---
-title: グラゴル文字変換器
+title: グラゴル文字
 id: conv-glag
 category: conv
 tags:
   - 文字変換器
   - 古教会スラヴ語
   - グラゴル文字
+  - スラヴ語派
+  - インド・ヨーロッパ語族
 author:
   - name: 宮西 大
 comment: "true"

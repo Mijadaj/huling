@@ -1,11 +1,12 @@
 ---
-title: コプト文字変換器
+title: コプト文字
 id: conv-cop
 category: conv
 tags:
   - 文字変換器
   - コプト語
   - コプト文字
+  - アフロ・アジア語族
 comment: "true"
 ---
 1000を表す上線 <span copt>◌̿</span> `=`,
