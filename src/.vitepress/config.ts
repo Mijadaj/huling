@@ -19,9 +19,32 @@ export default (async () => {
 
     // head 内の値とか
     head: [
-      ['link', { rel: 'apple-touch-icon', sizes: '180x180', href: '/apple-touch-icon.png' }],
-      ['link', { rel: 'icon', type: 'image/png', sizes: '32x32', href: '/favicon-32x32.png' }],
-      ['link', { rel: 'icon', type: 'image/png', sizes: '16x16', href: '/favicon-16x16.png' }],
+      [
+        'link',
+        {
+          rel: 'apple-touch-icon',
+          sizes: '180x180',
+          href: '/apple-touch-icon.png',
+        },
+      ],
+      [
+        'link',
+        {
+          rel: 'icon',
+          type: 'image/png',
+          sizes: '32x32',
+          href: '/favicon-32x32.png',
+        },
+      ],
+      [
+        'link',
+        {
+          rel: 'icon',
+          type: 'image/png',
+          sizes: '16x16',
+          href: '/favicon-16x16.png',
+        },
+      ],
       ['link', { rel: 'manifest', href: '/site.webmanifest' }],
       ['link', { rel: 'mask-icon', href: '/safari-pinned-tab.svg', color: '#679fd1' }],
       ['meta', { name: 'msapplication-TileColor', content: '#679fd1' }],
@@ -45,19 +68,20 @@ export default (async () => {
         { text: 'Home', link: '/' },
         { text: 'About', link: '/about' },
         { text: 'Booklet', link: '/booklet' },
-        { text: 'Docs', link: '/docs/grammar-terms', activeMatch: '/docs/' },
-        { text: 'Olympiad', link: '/olympiad/about', activeMatch: '/olympiad/' },
+        { text: 'note', link: 'https://note.com/huling/m/m8a70e16198cc' },
+        { text: 'Olympiad', link: 'https://note.com/huling/m/mcd1d0bd424ad' },
         { text: 'Tools', link: '/tools/conv', activeMatch: '/tools/' },
         { text: 'Tags', link: '/tags' },
       ],
 
       // nav 上のソーシャルリンク
-      socialLinks: [{ icon: 'twitter', link: 'https://twitter.com/HU_Linguistic' }],
+      socialLinks: [
+        { icon: 'twitter', link: 'https://twitter.com/HU_Linguistic' },
+        { icon: 'instagram', link: 'https://instagram.com/hu_linguistic' },
+      ],
 
       // ページ左側の sidebar
       sidebar: {
-        '/docs/': await sidebar('src/docs/', 'src/.vitepress/categories/docs.json'),
-        '/olympiad/': await sidebar('src/olympiad/', 'src/.vitepress/categories/olympiad.json'),
         '/tools/': await sidebar('src/tools/', 'src/.vitepress/categories/tools.json'),
       },
 

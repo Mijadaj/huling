@@ -8,9 +8,9 @@ hero:
     - link: /booklet
       text: Booklet
       theme: alt
-    - link: /docs/grammar-terms
-      text: Docs
-      theme: alt
+    - theme: alt
+      text: note
+      link: https://note.com/huling/m/m8a70e16198cc
   image: /top.svg
   name: Huling
   tagline: 北海道大学 非公認サークル
@@ -20,7 +20,6 @@ features:
     title: 活動内容
   - details: 主に文学部棟3F言語科学研究室を使用。以前は教養棟1Fディスカッション・ラウンジ、さらにその前はYouth+アカシアを利用していた。特別な用事がある場合はいまもたまに使う
     title: 活動場所
-  - details: '週1回 (毎週金曜18:00過ぎから21:00ごろまで)'
+  - details: 週1回 (毎週金曜18:00過ぎから21:00ごろまで)
     title: 活動頻度
 ---
-
